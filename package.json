@@ -1,0 +1,5 @@
+{
+  "name": "util-decorator-calltimes",
+  "version": "1.0.0",
+  "description": "Limit invokations on decorated class methods"
+}
